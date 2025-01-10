@@ -1,0 +1,33 @@
+.products-table {
+    width: 74.3%; 
+    float: left;
+  }
+  
+  .products-table th,
+  .products-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .products-table tr:nth-child(even)
+  
+  .products-table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+  }
+  
+  .facture {
+    position: fixed;
+    right: 0%;
+    width: 25.4%;
+    height: 80%;
+    border: 1px solid #ddd;
+  }
+  
+  .facture-p{
+    margin-left: 1%;
+  }
+  .facture-l{
+    text-align: center;
+  }

@@ -1,0 +1,25 @@
+.area-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+}
+
+.area-card h2, .area-card h3 {
+    margin: 10px 0;
+}
+
+.area-card hr {
+    border: none;
+    border-top: 1px solid #ddd;
+}
+
+.area-card button {
+    margin: 5px;
+    padding: 5px 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

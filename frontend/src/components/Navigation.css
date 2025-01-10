@@ -1,0 +1,17 @@
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+    background-color: #f8f9fa;
+    position: fixed; /* Hace que la barra de navegación sea fija */
+    top: 0; /* Alinea la barra de navegación con la parte superior de la página */
+    width: 97%; /* Asegura que la barra de navegación se extienda a lo largo de toda la página */
+    z-index: 1%; /* Asegura que la barra de navegación esté por encima de otros elementos de la página */
+  }
+  
+  .navigation a {
+    margin-right: 2%;
+    text-decoration: none;
+    color: #333;
+  }
+  

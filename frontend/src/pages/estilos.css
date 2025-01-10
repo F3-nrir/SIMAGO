@@ -1,0 +1,44 @@
+/* CSS para ProductCreateFormPage */
+.create-form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  .create-form input,
+  .create-form textarea,
+  .create-form button {
+    margin-bottom: 10px;
+    padding: 5px;
+  }
+  
+  .create-form button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* CSS para ProductUpdateFormPage */
+  .update-form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  .update-form input,
+  .update-form textarea,
+  .update-form button {
+    margin-bottom: 10px;
+    padding: 5px;
+  }
+  
+  .update-form button {
+    background-color: #008CBA;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
